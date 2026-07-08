@@ -108,6 +108,7 @@ Improve financial risk management.
 Support strategic decision-making with interactive analytics.
 
 # Dashboard Preview
+(fraud analaysis.png)  
 The Executive Overview dashboard includes:
 KPI Cards
 Monthly Transaction Trend
